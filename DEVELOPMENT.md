@@ -1,8 +1,3 @@
-> **Standalone-repo copy of the development notes.** The full toolchain
-> (install script, live test drivers, the sibling Workspace Name applet that
-> duplicates the shared modules) lives in the
-> [cinnamon-monorepo](https://github.com/CurbSoftware/cinnamon-monorepo)
-> `dev-tools/` directory.
 # World Clock Desklet - Development Guide
 
 ## Overview
@@ -48,8 +43,7 @@ Cinnamon cannot import across xlets. `computeGridDims` / `planCells` are copied 
 ## Development Setup
 
 ```bash
-ln -sfn "$(pwd)/files/cinnamon-world-clock-desklet@curbsoftware" \
-  ~/.local/share/cinnamon/desklets/cinnamon-world-clock-desklet@curbsoftware
+./dev-tools/install-extensions.sh -m symlink -n '*world-clock*'
 ```
 
 The install directory name must match the UUID: `~/.local/share/cinnamon/desklets/cinnamon-world-clock-desklet@curbsoftware/`.
@@ -152,7 +146,7 @@ All functions are pure (no St/Clutter):
 ## Testing
 
 ```bash
-gjs test-clock-actions.js
+gjs dev-tools/test-clock-actions.js
 ```
 
 Headless coverage: grid dims, `planCells` overflow (add tile stays last), normalize/add/update/remove guards. Widget behaviour needs a live Cinnamon session.
