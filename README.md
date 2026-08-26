@@ -25,7 +25,7 @@ That's what this desklet is.
 
 ## Configuration
 
-Right-click the desklet → **Configure…**
+Right-click the desklet to **Configure…**
 
 - **Grid layout mode**: auto or fixed rows/columns
 - **Allow adding, removing and editing clocks**: turn off for a read-only grid
