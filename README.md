@@ -49,7 +49,7 @@ No root needed. Everything installs into your home directory.
 From a release package:
 
 ```bash
-curl -fLO https://github.com/CurbSoftware/cinnamon-world-clock-desklet/releases/latest/download/cinnamon-world-clock-desklet.zip
+curl -fLO https://github.com/RobertAlexanderH/cinnamon-world-clock-desklet/releases/latest/download/cinnamon-world-clock-desklet.zip
 unzip cinnamon-world-clock-desklet.zip
 rm -rf ~/.local/share/cinnamon/desklets/cinnamon-world-clock-desklet@curbsoftware
 cp -r cinnamon-world-clock-desklet@curbsoftware/files/cinnamon-world-clock-desklet@curbsoftware \
@@ -59,7 +59,7 @@ cp -r cinnamon-world-clock-desklet@curbsoftware/files/cinnamon-world-clock-deskl
 Or straight from git:
 
 ```bash
-git clone https://github.com/CurbSoftware/cinnamon-world-clock-desklet.git
+git clone https://github.com/RobertAlexanderH/cinnamon-world-clock-desklet.git
 cd cinnamon-world-clock-desklet
 rm -rf ~/.local/share/cinnamon/desklets/cinnamon-world-clock-desklet@curbsoftware
 cp -r files/cinnamon-world-clock-desklet@curbsoftware \
