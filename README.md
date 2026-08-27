@@ -6,6 +6,10 @@ Left-click does nothing. Click the trailing **+** tile to add a clock. Right-cli
 
 ![World Clock desklet](screenshots/world-clock-desklet.webp)
 
+On the desktop:
+
+![World Clock on the desktop](screenshots/fulldesktop-world-grid-clocks.webp)
+
 The settings window:
 
 ![World Clock settings](screenshots/world-clock-config.webp)
