@@ -4,7 +4,11 @@ A Cinnamon desklet that shows a grid of clocks, each with its own name and timez
 
 Left-click does nothing. Click the trailing **+** tile to add a clock. Right-click a tile to edit or remove it. Clocks set to the system timezone (`local`) are outlined.
 
-![World Clock desklet](screenshot.png)
+![World Clock desklet](screenshots/world-clock-desklet.webp)
+
+The settings window:
+
+![World Clock settings](screenshots/world-clock-config.webp)
 
 ## Why this exists
 

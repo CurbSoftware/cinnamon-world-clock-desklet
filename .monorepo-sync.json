@@ -2,7 +2,7 @@
   "generator": "dev-tools/sync-spice-project.py",
   "managed_files": {
     "LICENSE": "c50fefe494922a44840a7949d4a9b61cf18f49365870ca2a38d386e70c6ffacf",
-    "README.md": "aa5987b732b569a802e889bcc2d9a9436f0f1abcb1a91a089861748e30b4461a",
+    "README.md": "e92b020a679715b736a9e1255050988229cb90e88efc09e6cca25f1b56644c0e",
     "files/cinnamon-world-clock-desklet@curbsoftware/clockActions.js": "a806364c40b2bf764852715c89cfbaf5f952697583d1dceb934e478346113b45",
     "files/cinnamon-world-clock-desklet@curbsoftware/clockDialog.js": "3f538776327be61e804346a82501a9ba6cfa148c69b4c961793a50e275ed971d",
     "files/cinnamon-world-clock-desklet@curbsoftware/desklet.js": "c6db0a9554354f973954f09f609f71ae7dfb2056b89dc02ec2b46c54b69ef826",
@@ -13,12 +13,14 @@
     "files/cinnamon-world-clock-desklet@curbsoftware/stylesheet.css": "c0d5f25ac13e0ff74f7938ce1de0a3f525e6682f9ba321b844daf9b19b662828",
     "files/cinnamon-world-clock-desklet@curbsoftware/timezoneWidget.py": "20a1cd5a037c6f3adc876cdf936059698189314b003c3b461a918e816fd91cb3",
     "info.json": "0b8c18a03c477f48e482587029008263efa4c6b4ebfdd292de148674ba3fcf6d",
-    "screenshot.png": "7321530c56bea411704a8709bafcdb9f1c2d74bd8d5bb16ecb49c70cfce025c4"
+    "screenshot.png": "7321530c56bea411704a8709bafcdb9f1c2d74bd8d5bb16ecb49c70cfce025c4",
+    "screenshots/world-clock-config.webp": "4400455465c521aa5682268eb8e6368bf7b5843d87dae15ac9b86bb66584df7c",
+    "screenshots/world-clock-desklet.webp": "9b931605a619f5f7e7344594c9a8046adb7bc58ceea18dbc22a1b8d6e39cfdac"
   },
   "schema": 1,
   "source_directory": "cinnamon-world-clock-desklet@curbsoftware",
   "source_repository": "CurbSoftware/cinnamon-monorepo",
-  "source_revision": "a47890062e9a71c093b8118e5bf2c8a2d8737215",
+  "source_revision": "2376db874d65fee1cf54f873586da7f8b4538b69",
   "source_worktree_dirty": false,
   "spice": {
     "alias": "world-clock",
