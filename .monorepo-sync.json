@@ -2,7 +2,7 @@
   "generator": "dev-tools/sync-spice-project.py",
   "managed_files": {
     "LICENSE": "c50fefe494922a44840a7949d4a9b61cf18f49365870ca2a38d386e70c6ffacf",
-    "README.md": "3bf82cfc256c9db9d7e8b272dd0df6211ff2c72ca70a240aead49b05f94bcce9",
+    "README.md": "ffd00e60fa6dd1ebf41cddf7da488e613e618566bfb868b87c1c57de1b6e0917",
     "files/cinnamon-world-clock-desklet@curbsoftware/clockActions.js": "a806364c40b2bf764852715c89cfbaf5f952697583d1dceb934e478346113b45",
     "files/cinnamon-world-clock-desklet@curbsoftware/clockDialog.js": "3f538776327be61e804346a82501a9ba6cfa148c69b4c961793a50e275ed971d",
     "files/cinnamon-world-clock-desklet@curbsoftware/desklet.js": "c6db0a9554354f973954f09f609f71ae7dfb2056b89dc02ec2b46c54b69ef826",
@@ -21,7 +21,7 @@
   "schema": 1,
   "source_directory": "cinnamon-world-clock-desklet@curbsoftware",
   "source_repository": "CurbSoftware/cinnamon-monorepo",
-  "source_revision": "450936c0e5552812d9df7a67818dd039e7b6f4fb",
+  "source_revision": "91446bea3bb3a329c09a12cdb4c56d9d810201ca",
   "source_worktree_dirty": false,
   "spice": {
     "alias": "world-clock",
